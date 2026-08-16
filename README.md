@@ -37,7 +37,7 @@ A sustainable RoboCar chassis designed and modeled in AutoCAD 2024, combining cl
 | Name | Role | GitHub |
 |---|---|---|
 | Modak Atharv Sachin | 3D Modeler | [@github-username](https://github.com/) |
-| Mukhiya Bhagat Hareram | Report Writing | [bhagatmukhiya82](https://github.com/bhagatmukhiya82-source) |
+| Mukhiya Bhagat Hareram | Report Writing | [@bhagatmukhiya82](https://github.com/bhagatmukhiya82-source) |
 | Nathwani Om Deepak | SDG Analyst | [@Blankk18](https://github.com/Blankk18) |
 | Navadia Dharmik Jignesh | Design & Safety Review | [@navadiadharmik05](https://github.com/navadiadharmik05-hub) |
 
