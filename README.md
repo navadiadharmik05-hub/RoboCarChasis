@@ -147,7 +147,7 @@ The chassis went through two design stages, with the final design significantly 
 | `ISOMETRICCHASIS-Model.pdf` | Isometric view / rendered model output |
 | `ISOMETRICCHASIS.dwg` | AutoCAD source file — isometric chassis drawing |
 | `FYECS-1_GRP-1_CHASIS_3d.dwg` | AutoCAD source file — 3D chassis model |
-| `Engineering_graphics__7__new.dwg` | AutoCAD source file — supporting drawing sheet |
+| `ORTHOGRAPHIC_VIEW` | AutoCAD source file — supporting drawing sheet |
 | `UMS3_FYECS-1_GRP-1_CHASIS_3D.stl` | 3D-printable STL export of the chassis model |
 
 > **Note:** `.dwg` files require AutoCAD (or a compatible viewer such as DWG TrueView) to open. The `.stl` file can be viewed in any standard 3D viewer or sliced directly for 3D printing.
