@@ -173,6 +173,6 @@ The chassis went through two design stages, with the final design significantly 
 Mahavir Education Trust's — Autonomous Institute Affiliated to University of Mumbai
 Bestowed with the University of Mumbai's Best College Honor, 2024–25.
 
----
+----
 
 *This README was compiled from the official microproject report for documentation and submission purposes.*
