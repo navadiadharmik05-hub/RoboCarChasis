@@ -10,7 +10,7 @@ A sustainable RoboCar chassis designed and modeled in AutoCAD 2024, combining cl
 
 ## 📋 Course Information
 
-| Field | Detail |
+| Field | Details |
 |---|---|
 | **Course Code** | ECCOR1ES102 |
 | **Course Title** | Engineering Graphics |
